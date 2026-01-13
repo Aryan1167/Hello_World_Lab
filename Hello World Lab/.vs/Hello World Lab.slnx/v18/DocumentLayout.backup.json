@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Harper College\\CSC - 122\\Git Hub\\Hello_World_Lab\\Hello World Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334C4C72-F5FC-4DD7-9C62-F55D411268A4}|Hello World Lab\\Hello World Lab.vcxproj|D:\\Harper College\\CSC - 122\\Git Hub\\Hello_World_Lab\\Hello World Lab\\Hello World Lab\\Hello World Lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{334C4C72-F5FC-4DD7-9C62-F55D411268A4}|Hello World Lab\\Hello World Lab.vcxproj|solutionrelative:Hello World Lab\\Hello World Lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello World Lab.cpp",
+              "DocumentMoniker": "D:\\Harper College\\CSC - 122\\Git Hub\\Hello_World_Lab\\Hello World Lab\\Hello World Lab\\Hello World Lab.cpp",
+              "RelativeDocumentMoniker": "Hello World Lab\\Hello World Lab.cpp",
+              "ToolTip": "D:\\Harper College\\CSC - 122\\Git Hub\\Hello_World_Lab\\Hello World Lab\\Hello World Lab\\Hello World Lab.cpp",
+              "RelativeToolTip": "Hello World Lab\\Hello World Lab.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T16:21:19.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
